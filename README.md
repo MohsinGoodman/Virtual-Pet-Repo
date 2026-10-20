@@ -1,9 +1,9 @@
 # Virtual Pet Simulator
 
 ## Names of Pair Working on This Fork
-<Enter Name 1 Here>
+Mohsin Chheena
 
-<Enter Name 2 Here>
+Camille Meacham
 
 ## Run from Git Bash
 
